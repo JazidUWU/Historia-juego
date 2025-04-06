@@ -10,5 +10,6 @@ Sumérgete en 'El Contador', una oscura aventura conversacional donde tus decisi
 * **🎭 Múltiples Finales:** Tus acciones y elecciones a lo largo de la semana te llevarán a uno de los varios finales posibles. ¿Lograrás sobrevivir? ¿A qué costo?
 * **💀 Atmósfera Intensa:** Una narrativa simple pero directa que explora temas como el duelo, el miedo a lo desconocido y la lucha por la supervivencia.
 * **⌨️ Jugabilidad Clásica:** Interfaz de texto sencilla, controlada mediante elecciones (a, b, c).
-  
+### Enlace de GDB para el juego
+https://onlinegdb.com/XCoqzd2XM
 *Este juego fue desarrollado por Jazid Andrey Ovando Durán como proyecto para la materia Introducción a la programación.*
