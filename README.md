@@ -1,0 +1,3 @@
+Un número flota sobre tu cabeza. No es imaginación, es **El Contador** que marca los días que te quedan de vida, un macabro recordatorio del destino de tu mejor amiga. Cada día, la cifra baja. ¿Qué harás?
+
+Sumérgete en 'El Contador', una oscura aventura conversacional donde tus decisiones marcan la diferencia...
